@@ -1,7 +1,8 @@
 const CACHE_NAME = "chess-timer-v1";
 
 const FILES = [
-  "./chess-timer.html",
+  "./",
+  "./index.html",
   "./manifest.json"
 ];
 
