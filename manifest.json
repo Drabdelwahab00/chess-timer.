@@ -1,7 +1,7 @@
 {
   "name": "Chess Timer",
   "short_name": "Chess Timer",
-  "start_url": "chess-timer.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#16833a",
   "theme_color": "#16833a",
